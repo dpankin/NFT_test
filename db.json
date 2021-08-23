@@ -1,30 +1,18 @@
 {
 	"tokens": [
-		{
-			"id": 0,
-			"description": "All hail our lord Floppa",
-			"external_url": "https://drive.google.com/uc?export=download&id=1y5ef76st5qixpFgcI_1zki7dEcsH0IZA",
-			"image": "https://i.imgur.com/WEAI7H8.png",
-			"name": "LORD FLOP"
-		},
-		{
-			"id": 1,
-			"title": "Asset Metadata",
-			"type": "object",
-			"properties": {
-				"name": {
-					"type": "string",
-					"description": "Identifies the asset to which this NFT represents",
-					},
-				"description": {
-					"type": "string",
-					"description": "Describes the asset to which this NFT represents",
-					},
-				"image": {
-					"type": "string",
-					"description": "A URI pointing to a resource with mime type image/* representing the asset to which this NFT represents. Consider making any images at a width between 320 and 1080 pixels and aspect ratio between 1.91:1 and 4:5 inclusive.",
-					}
-					}
-		}
+			{
+				"id": 0,
+				"description": "All hail our lord Floppa",
+				"external_url": "https://drive.google.com/uc?export=download&id=1y5ef76st5qixpFgcI_1zki7dEcsH0IZA",
+				"image": "https://i.imgur.com/WEAI7H8.png",
+				"name": "LORD FLOP"
+			},
+			{
+				"id": 1,
+				"description": "This flop is a fake flop: the only real Floppa has the ID of 0 (but this one is stored in IPFS so that's cool)",
+				"external_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+				"image": "https://ipfs.io/ipfs/QmcH1SrK5mTmzPYVs9MLeZC6RH5Ai8v5BzTeNURgrkzkEc",
+				"name": "FAKE FLOP"
+			}
 		]
 }

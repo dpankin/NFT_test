@@ -15,18 +15,18 @@
 				"name": "FAKE FLOP"
 			},
 			{
+				"id": 2,
+				"description": "You thought the original Floppa was the token with ID=0 in this contract? You got pranked, bruv! THIS is the original Floppa! All hail our lord Floppa! Never trust shit NFT projects.",
+				"external_url": "https://bit.ly/3BhE9KH",
+				"image": "https://i.imgur.com/WEAI7H8.png",
+				"name": "LORD FLOP"
+			}
+			{
 				"id": 3,
 				"description": "Tchmaunia meets Floppa",
 				"external_url": "https://ipfs.io/ipfs/QmcLBuJV1dhFjAorM7eZBg5AfzS1h5q8pQYv4LyTgCsZM7",
 				"image": "https://i.ibb.co/p23H4MQ/2022-01-22-213827.jpg",
 				"name": "FLOP RUNNER"
-			},
-			{
-				"id": 4,
-				"description": "You thought the original Floppa was the token with ID=0 in this contract? You got pranked, bruv! THIS is the original Floppa! All hail our lord Floppa! Never trust shit NFT projects.",
-				"external_url": "https://bit.ly/3BhE9KH",
-				"image": "https://i.imgur.com/WEAI7H8.png",
-				"name": "LORD FLOP"
 			}
 		]
 }
